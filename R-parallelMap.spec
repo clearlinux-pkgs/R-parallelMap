@@ -4,7 +4,7 @@
 #
 Name     : R-parallelMap
 Version  : 1.5.1
-Release  : 9
+Release  : 10
 URL      : https://cran.r-project.org/src/contrib/parallelMap_1.5.1.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/parallelMap_1.5.1.tar.gz
 Summary  : Unified Interface to Parallelization Back-Ends
